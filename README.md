@@ -1,3 +1,6 @@
+https://intelligent-power-forecasting-f398.vercel.app/
+
+
 Intelligent Power Demand Forecasting (APU)
 
 A full-stack machine learning system that forecasts electricity demand in 10-minute intervals (144 blocks/day) using historical load data, weather API integration, and localized holiday intelligence for Dhanbad, Jharkhand.
